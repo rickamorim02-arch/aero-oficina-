@@ -1,0 +1,18 @@
+{
+  "name": "Aero Oficina 3D",
+  "short_name": "Aero Oficina",
+  "description": "Oficina de montagem e simulador 3D de aviões e naves",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081426",
+  "theme_color": "#081426",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
